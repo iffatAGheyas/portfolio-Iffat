@@ -2,7 +2,7 @@
 
 **Domain:** Static-image Computer Vision  
 **Project:** `01_convolution_from_scratch`
-
+ **What it does:** Implements basic 2D convolution filters (edge‐detection, sharpen, blur) from scratch in NumPy, then trains a tiny CNN to classify synthetic images of circles, rectangles and triangles.
 ---
 
 ## 📂 Project Structure
